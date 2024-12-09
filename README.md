@@ -1,26 +1,27 @@
-Greetings! I'm Kartikeya Sharma, a dedicated BCA student with an unwavering passion for crafting immersive web experiences. My journey is a fusion of academic excellence and hands-on learning in the world of Software development.
 
 
-![Coding](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+# Hi, I'm kartikeya sharma! 👋
 
-🌟 Here's a glimpse of what I love to do:
+![My Profile Picture](https://browserstack.wpenginepowered.com/wp-content/uploads/2023/02/DevOps-Lifecycle-700x389.jpg)
 
-<!-- Skills -->
-### Skills
-- **Languages:** HTML5, CSS3, JavaScript
-- **Tools:** Git, VS Code
-- **Design:** Responsive Web Design, UI/UX
+**A passionate DevOps Engineer**
+
+I'm dedicated to automating infrastructure, streamlining workflows, and delivering reliable software. 
+
+**Skills:**
+* **Version Control:** Git
+* **Operating system:** linux
+* **Scripting:** Bash
 
 
-Feel free to explore more on my [GitHub](link-to-github)!
+**Interests:**
+* Open-source contributions
+* Devops
 
-<!-- Connect -->
-### Connect with Me
-Let's connect and collaborate:
+**Let's connect!**
+* **LinkedIn:** https://www.linkedin.com/in/kartikeyasharmaa/
+* **X:** @Kartike2326648
+* **Email:** sharmakartikeya2002@gmail.com
 
-- [LinkedIn](linkedin.com/in/kartikeya-sharma-628aa0212)
-- [Twitter](https://twitter.com/Kartike2326648r)
-<!--- [Portfolio](link-to-portfolio) -->
+**Feel free to explore my repositories or reach out for collaboration!**
 
-<!-- Footer -->
-#### Thank You for Visiting! 😊
